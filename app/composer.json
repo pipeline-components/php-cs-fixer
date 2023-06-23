@@ -1,5 +1,8 @@
 {
     "require": {
         "friendsofphp/php-cs-fixer": "^3.18"
-    }
+    },
+    "license": "MIT",
+    "description": "Pipeline Components PHP-cs-fixes",
+    "name": "pipelinecomponents/php-cs-fixer"
 }
