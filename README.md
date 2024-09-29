@@ -82,14 +82,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[commits]: https://gitlab.com/pipeline-components/php-cs-fixer/-/commits/master
-[contributors]: https://gitlab.com/pipeline-components/php-cs-fixer/-/graphs/master
+[commits]: https://gitlab.com/pipeline-components/php-cs-fixer/-/commits/main
+[contributors]: https://gitlab.com/pipeline-components/php-cs-fixer/-/graphs/main
 [dockerhub]: https://hub.docker.com/r/pipelinecomponents/php-cs-fixer
 [license-shield]: https://img.shields.io/badge/License-MIT-green.svg
 [mjrider]: https://gitlab.com/mjrider
 [discord]: https://discord.gg/vhxWFfP
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/php-cs-fixer.svg
-[gitlabci]: https://gitlab.com/pipeline-components/php-cs-fixer/-/commits/master
+[gitlabci]: https://gitlab.com/pipeline-components/php-cs-fixer/-/commits/main
 [issue]: https://gitlab.com/pipeline-components/php-cs-fixer/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
