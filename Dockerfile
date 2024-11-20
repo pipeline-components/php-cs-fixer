@@ -6,7 +6,7 @@ FROM pipelinecomponents/base-entrypoint:0.5.0 as entrypoint
 # ==============================================================================
 # Component specific
 # ------------------------------------------------------------------------------
-FROM composer:2.8.2 as build
+FROM composer:2.8.3 as build
 COPY app/ /app/
 WORKDIR /app/
 RUN composer install --no-interaction --no-scripts --no-progress --optimize-autoloader
