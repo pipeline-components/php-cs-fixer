@@ -12,7 +12,7 @@ WORKDIR /app/
 RUN composer install --no-interaction --no-scripts --no-progress --optimize-autoloader
 
 # ------------------------------------------------------------------------------
-FROM php:8.3.0-alpine3.17
+FROM php:8.3.0-alpine3.19
 ENV PATH "$PATH:/app/vendor/bin/"
 COPY --from=build /app/ /app/
 # COPY php.ini /usr/local/etc/php/php.ini
